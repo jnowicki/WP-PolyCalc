@@ -1,0 +1,15 @@
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\ApplicationIcon.png
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Background.png
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.xap
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.cs
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.cs
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+c:\users\kuba\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\Kuba\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Kuba\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Kuba\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.csprojResolveAssemblyReference.cache
